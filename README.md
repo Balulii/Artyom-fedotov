@@ -13,12 +13,8 @@
 - 🚀 Учусь каждый день 
 
 📫 [Telegram](https://t.me/artsiom_qa) | [Email](mailto:balulii0777@gmail.com)
-
 ---
-
 ## 🧰 Инструменты, которые я изучаю
-
-### 📁 Документация :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="24" title="Jira"/>
@@ -27,42 +23,19 @@
   <img src="https://docs.testit.software/images/testit_logo_icon.png" width="24" title="Test IT"/>
   <img src="https://luna1.co/eb0187.png" width="24" title="Qase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" title="Figma"/>
-</div>
-
----
-
-### 🌐 Веб-тестирование:
-
-<div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="24" title="Chrome DevTools"/>
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="24" title="Postman"/>
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="24" title="SoapUI"/>
-</div>
-
----
-
-### 📱 Мобильное тестирование:
-
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="24" title="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="24" title="Xcode"/>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="24" title="Charles Proxy"/>
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="24" title="Fiddler"/>
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" width="24" title="Proxyman"/>
-</div>
-
----
-
-### 💾 Работа с данными:
-
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" title="MongoDB"/>
 </div>
 
-
 ---
-
 
 Внутри этого репозитория — как мини-лаборатория:
 - 📂 `manual-testing/` — чек-листы, баг-репорты, тест-кейсы   
