@@ -12,7 +12,7 @@
 - 🔍 Внимание к деталям — мой главный инструмент  
 - 🚀 Учусь каждый день 
 
-📫 [Telegram](https://t.me/artsiom_qa) | [Email](balulii0777@gmail.com)
+📫 [Telegram](https://t.me/artsiom_qa) | [Email](mailto:balulii0777@gmail.com)
 
 ---
 
