@@ -12,7 +12,7 @@
 - 🔍 Внимание к деталям — мой главный инструмент  
 - 🚀 Учусь каждый день 
 
-📫 [Telegram](https://t.me/artsiom_qa) | [Email](mailto:balulii0777@gmail.com)
+📫 [Telegram](https://t.me/Balulii) | [Email](mailto:balulii0777@gmail.com)
 ---
 ## 🧰 Инструменты, которые я изучаю
 
@@ -31,15 +31,17 @@
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="24" title="Fiddler"/>
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" width="24" title="Proxyman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" title="MongoDB"/>
 </div>
 
 ---
 
-Внутри этого репозитория — как мини-лаборатория:
-- 📂 `manual-testing/` — чек-листы, баг-репорты, тест-кейсы   
-- 📄 `docs/resume.md` — резюме в markdown-формате  
-
+<h2>Test Artifacts</h2>
+<ul>
+  <li><a href="https://github.com/ArtyomFedotov/WebShopTesting">WebshopTesting</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/ArtyomFedotov/API">API Testing</a> – REST в Postman</li>
+  <li><a href="https://github.com/ArtyomFedotov/SQL">MySQL</a> – запросы для БД</li>
+  <li><a href="https://github.com/ArtyomFedotov/Bash">Bash</a> – команды Bash </li>
+</ul>
 ---
 
 
